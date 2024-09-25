@@ -1,1 +1,2 @@
 # TV-Shows-Project
+Compared the similarity of different sitcoms to two main sources: How I Met Your Mother (HIMYM) and Modern Family. The project analyzes different pilot scripts of a variety of sitcoms and then decides which shows are more similar to HIMYM and Modern Family, for example sitcoms about a group of friends (FRIENDS and The Big Bang Theory), are more likely to have come from HIMYM and sitcoms about families (The Goldbergs and The Middle), are more likely to have come from the source body of Modern Family.
